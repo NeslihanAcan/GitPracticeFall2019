@@ -7,6 +7,8 @@ public class LoopPractice {
 
             System.out.println("Counter = " + i);
             System.out.println("Kimim ben");
+            System.out.println("Ben bir Hicim");
+
 
         }
     }
